@@ -1,0 +1,1 @@
+# edge-impulse-appliance-control-voice-nordic-thingy53
